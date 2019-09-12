@@ -92,7 +92,7 @@ GDP_data.head()
 Unemployment_data=pd.read_csv(links["unemployment"])
 
 
-# Use the method <code>head()</code> to display the first five rows of the unemployment data, then take a screen-shot.
+# Use the method <code>head()</code> to display the first five rows of the unemployment data.
 
 # In[11]:
 
@@ -101,7 +101,7 @@ Unemployment_data=pd.read_csv(links["unemployment"])
 Unemployment_data.head()
 
 
-# <h3 id="Section_3">Question 3: Display a dataframe where unemployment was greater than 8.5%. Take a screen-shot.</h3>
+# <h3 id="Section_3">Question 3: Display a dataframe where unemployment was greater than 8.5%.</h3>
 
 # In[14]:
 
@@ -159,7 +159,7 @@ title = "Making a dashboard"
 file_name = "index.html"
 
 
-# Call the function <code>make_dashboard</code> , to produce a dashboard.  Assign the parameter values accordingly take a the <b>, take a screen shot of the dashboard and submit it</b>.
+# Call the function <code>make_dashboard</code> , to produce a dashboard.  Assign the parameter values accordingly.
 
 # In[22]:
 
